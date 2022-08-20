@@ -28,13 +28,8 @@
         <h2>Features</h2>
 
         <ul>
-            <li>Powered by the web! Runs everywhere on a browser.</li>
+          
             <li>No sign-up or downloads required.</li>
-            <li>Installable as a Progressive-Web-App (PWA). Works offline!</li>
-            <li>
-                100% Client-sided. No ads, no trackers, no server interaction at
-                all.
-            </li>
             <li>Record your screen, camera or microphone.</li>
         </ul>
 
